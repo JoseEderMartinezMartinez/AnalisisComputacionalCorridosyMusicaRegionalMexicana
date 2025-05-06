@@ -1,5 +1,5 @@
 # Análisis Computacional de Corridos y Música Regional Mexicana
-Este repositorio contiene los recursos y datos utilizados en el proyecto de investigación "Identificación de patrones lingüísticos, temáticos, emocionales e intención en los Corridos y la Música Regional Mexicana", desarrollado como parte del trabajo académico del Tecnológico Nacional de México campus CENIDET.
+Este repositorio contiene los datos utilizados en el proyecto de investigación "Identificación de patrones lingüísticos, temáticos, emocionales e intención en los Corridos y la Música Regional Mexicana", desarrollado como parte del trabajo académico del Tecnológico Nacional de México campus CENIDET.
 
 ## Descripción general
 La música regional mexicana, en particular los corridos, ha evolucionado significativamente, incorporando narrativas influenciadas por fenómenos como la migración, el crimen organizado y la globalización.
